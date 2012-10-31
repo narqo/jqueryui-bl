@@ -9,12 +9,12 @@ code.
 Usage
 -----
 
-  › git clone git://this/repo i-jqueryui
-  › cd i-jqueryui
-  › npm install
-  › bem make buildme
+    › git clone git://this/repo i-jqueryui
+    › cd i-jqueryui
+    › npm install
+    › bem make buildme
 
-`buildme` is custom build node for `bem make`, which is translate original jQ UI
+`buildme` is a custom build node for `bem make`, which is translate original jQ UI
 source code to BEM methodology naming scheme.
 
 ---
