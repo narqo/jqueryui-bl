@@ -1,0 +1,20 @@
+{
+  "name": "i-jqueryui",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "bem": "git@github.com:bem/bem-tools.git#introspect",
+    "esprima": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narqo/i-jqueryui.git"
+  },
+  "keywords": [
+    "jquery-ui",
+    "bem",
+    "bl"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com>",
+  "licenses": "MIT"
+}
