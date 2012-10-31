@@ -3,7 +3,7 @@ i-jqueryui
 
 *NOTE: This project is in the early development state. Do not use it*
 
-This is an basic environment for building library from orinal jQuery UI source
+This is an basic environment for building library from original jQuery UI source
 code.
 
 Usage
