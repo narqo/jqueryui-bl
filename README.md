@@ -1,5 +1,5 @@
-i-jqueryui
-==========
+jqueryui-bl
+===========
 
 jQuery UI ported to [BEM](http://bem.info) methodology.
 
